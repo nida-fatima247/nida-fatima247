@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-<p> <h1>🚀 Tech Stack </h1></p>
+<p> <h1>💻 Tech Stack </h1></p>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -130,11 +130,9 @@ A stylish e-commerce fashion landing page with a clean, responsive interface.
 </table>
 
 ---
----
-
-# 📊 GitHub Analytics
 
 <div align="center">
+<p> <h1>📊 GitHub Analytics</h1></p>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nida-fatima247&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
@@ -152,9 +150,8 @@ A stylish e-commerce fashion landing page with a clean, responsive interface.
 
 ---
 
-# 📈 Contribution Graph
-
 <div align="center">
+<p> <h1>📈 Contribution Graph</h1></p>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nida-fatima247&theme=tokyo-night&hide_border=true"/>
 
@@ -163,9 +160,10 @@ A stylish e-commerce fashion landing page with a clean, responsive interface.
 
 ---
 
-# 🤝 Let's Connect
+
 
 <div align="center">
+<p> <h1>🤝 Let's Connect</h1></p>
 
 <a href="https://www.linkedin.com/in/nida-fatima-247jb">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
